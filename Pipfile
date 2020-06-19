@@ -11,6 +11,9 @@ numpy = "*"
 scipy = "*"
 tqdm = "*"
 pandas = "*"
+jupyter = "*"
+jupyter_contrib_nbextensions = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.6"
